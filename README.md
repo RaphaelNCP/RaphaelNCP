@@ -11,15 +11,17 @@
 ##
 
 <div align="center">
+   <img align="center" alt="Rapha-python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+   <img align="center" alt="Rapha-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+   <img align="center" alt="Rapha-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
+   <img align="center" alt="Rapha-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
    <img align="center" alt="Rapha-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
-   <img align="center" alt="Rafa-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
-   <img align="center" alt="Rafa-javascript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-   <img align="center" alt="Rafa-vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+   <img align="center" alt="Rapha-css" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
 </div>
   
 ##
   
-![Contribution](https://activity-graph.herokuapp.com/graph?username=RaphaelNCP&theme=synthwave-84&HIDE_border=false&area=true)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=RaphaelNCP&bg_color=000000&color=9e4c98&line=ff00ee&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ##
 
