@@ -6,13 +6,13 @@
   - 🔥 Iniciante em desenvolvimento web e mobile
   - 🔭 Atualmente estudando ciências da computação na Universidade Fumec
   - 🌱 Estou aprendendo Kotlin...
-  - 💬 Podemos conversar sobre Kotlin, JS, React, Flutter, Python, Java...
+  - 💬 Podemos conversar sobre Kotlin, TS, React, Flutter, React Native, Java...
   - 👨‍💻 Mais sobre Raphael do Nascimento [aqui](https://cursos.alura.com.br/vitrinedev/raphaelncp)
 </div>
 <div>
   <h2>🛠 &nbsp;Tecnologias</h2>
   
-  <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
   <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
   <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
