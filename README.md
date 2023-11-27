@@ -1,6 +1,7 @@
 <div>
-  <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/RaphaelNCP/b2175494a20028f85e28e4a6e51dec43/raw/701479691bf1920d20df642868e730286e6f1b5e/githubcard.svg"/>
-  
+<img src="https://raw.githubusercontent.com/gist/RaphaelNCP/fd6755371d998347444c7666b7773d1b/raw/d471cbfe30622a683d3a0a0c58782a5a84732536/Raphael%20do%20nascimento.svg"/>
+  </div>
+<div>
   <h1 align="left">Olá <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, eu sou o Raphael do Nascimento</h1>
   
   - 🔥 Iniciante em desenvolvimento web e mobile
@@ -8,8 +9,6 @@
   - 🌱 Estou aprendendo Kotlin...
   - 💬 Podemos conversar sobre Kotlin, TS, React, Flutter, React Native, Java...
   - 👨‍💻 Mais sobre Raphael do Nascimento [aqui](https://cursos.alura.com.br/vitrinedev/raphaelncp)
-</div>
-<div>
   <h2>🛠 &nbsp;Tecnologias</h2>
   
   <img width="35px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
