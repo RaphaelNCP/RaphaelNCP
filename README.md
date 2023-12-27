@@ -14,5 +14,7 @@
   <h2>⚙️ &nbsp;GitHub Analytics</h2>
 <div  align="left">
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RaphaelNCP&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" alt="raphael's stats"/>
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelNCP&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" alt="raphael's most languages"/>
+  <a href="https://github.com/Gurupreet" title="ilustração do mapeamento de linguagens">
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelNCP&theme=dracula&hide_langs_below=1" alt="ilustração da leitura de linguagens de programação no perfil"/>
+</a>
 </div>
