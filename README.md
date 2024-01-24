@@ -4,7 +4,7 @@
   My name is Raphael do Nascimento! I'm a Brazilian software developer, I love learning new skills and technologies. I dream of traveling the world and discovering new places and cultures! Welcome to my github, and feel free to explore my repositories and contact me. I'm always open to new opportunities!
 
 
-   ## Who am Im?
+   ## Who am I?
    
  ```csharp
  class WhoAmI
